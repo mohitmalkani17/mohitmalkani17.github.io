@@ -3,11 +3,9 @@ logo: "/images/WhatsApp Image 2024-07-08 at 10.56.25 PM.jpeg" # your photo (or l
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hi there! I am Mohit Malkani, a dedicated and passionate Computer Science student at Siksha O Anusandhan University, with a keen interest in software development, data science, and machine learning. I am enthusiastic about leveraging technology to solve real-world problems and continuously learning new skills to stay at the forefront of the industry.
   <br><br>
-  Welcome to my World !!
-  <br><br>
   <a href="https://www.linkedin.com/in/mohit-malkani-04841021b/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
